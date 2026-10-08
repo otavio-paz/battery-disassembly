@@ -1,0 +1,14 @@
+[project]
+name = "battery-disassembly"
+version = "0.1.0"
+description = "Stationary SO-101 MuJoCo camera demo"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "mujoco>=3.3,<4",
+    "numpy>=2,<3",
+    "pillow>=11,<13",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+

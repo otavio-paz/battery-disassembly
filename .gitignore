@@ -1,0 +1,7 @@
+.venv/
+.tools/
+.uv-cache/
+__pycache__/
+*.py[cod]
+outputs/*
+!outputs/.gitkeep

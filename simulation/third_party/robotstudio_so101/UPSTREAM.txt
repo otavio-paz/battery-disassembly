@@ -1,0 +1,5 @@
+Source: https://github.com/google-deepmind/mujoco_menagerie
+Revision: 8161bba264d7fa7c99ca301e91e7fb44737676ad
+Directory: robotstudio_so101
+License: Apache-2.0; see LICENSE
+Upstream files unmodified.
